@@ -1,1 +1,1 @@
-[![l1ttleO's GitHub stats](https://github-readme-stats.vercel.app/api?username=l1ttleO&theme=dark&count_private=true&show_icons=true&include_all_commits=true&exclude_repo=l1ttleO/idea-settings)](https://github.com/anuraghazra/github-readme-stats)
+[![Octol1ttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Octol1ttle&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
