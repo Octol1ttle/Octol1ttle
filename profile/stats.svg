@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Octol1ttle's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 66, Total Commits  (last year) : 641, Total PRs: 307, Total Issues: 63, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 66, Total Commits  (last year) : 641, Total PRs: 309, Total Issues: 63, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 52.972135136147465;
+        stroke-dashoffset: 52.94777192899503;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >307</text>
+      >309</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
