@@ -12,10 +12,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Octol1ttle&theme=dark&count_private=true&show_icons=true
+          options: username=${{ github.repository_owner }}&theme=dark&count_private=true&show_icons=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
